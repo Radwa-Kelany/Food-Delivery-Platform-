@@ -3,7 +3,7 @@ This repo shows the analysis and design process of "Food Delivary" app.
 
 ## Features and Functions
 ### 1- Customer Features 
-<img width="1548" height="1012" alt="customer features" src="https://github.com/user-attachments/assets/f738a862-4ee9-4a84-99c0-96950c55d63d" />
+<img width="1548" height="1012" alt="customer features" src="https://github.com/user-attachments/assets/62240cff-afb1-4241-9973-a74ff6ff7fc0" />
 
 ### 2- Resturant Features
 <img width="1548" height="762" alt="resturant_owner_features" src="https://github.com/user-attachments/assets/2df2dc6f-3af9-44fc-8bf9-687c92276571" />
@@ -12,5 +12,7 @@ This repo shows the analysis and design process of "Food Delivary" app.
 <img width="1561" height="671" alt="delivary_service _features" src="https://github.com/user-attachments/assets/108d4016-f8e8-486a-8939-bf4f8f06d994" />
 
 ### System Features
-<img width="1361" height="1675" alt="system_features" src="https://github.com/user-attachments/assets/370c8e7a-26a6-43c9-82cc-1d4919f83986" />
+<img width="1361" height="1675" alt="system_features" src="https://github.com/user-attachments/assets/28dd3d56-ba66-44bf-ba82-58b00d5bd032" />
+
+
 
