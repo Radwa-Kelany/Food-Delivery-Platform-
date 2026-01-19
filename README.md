@@ -12,7 +12,8 @@ This repo shows the analysis and design process of "Food Delivary" app.
 <img width="1561" height="671" alt="delivary_service _features" src="https://github.com/user-attachments/assets/108d4016-f8e8-486a-8939-bf4f8f06d994" />
 
 ### System Features
-<img width="1361" height="1675" alt="system_features" src="https://github.com/user-attachments/assets/28dd3d56-ba66-44bf-ba82-58b00d5bd032" />
+<img width="1361" height="1202" alt="system_features" src="https://github.com/user-attachments/assets/bee5c7d8-d490-494f-bbbc-ed8192d03021" />
+
 
 
 
